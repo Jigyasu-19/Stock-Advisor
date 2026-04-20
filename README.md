@@ -1,62 +1,101 @@
 # AI Stock Advisor 🚀📈
 
-<p align="center">
-  A full-stack stock intelligence platform that delivers personalized <strong>Buy / Hold / Sell</strong> recommendations using live market data, technical indicators, sentiment scoring, and investor risk profiling.
-</p>
+A premium, full-stack stock intelligence platform delivering personalized **Buy / Hold / Sell** recommendations using live market data, technical indicators, sentiment scoring, and investor risk profiling.
 
-<p align="center">
-  Built with <strong>React + Vite</strong> • <strong>Node.js + Express</strong> • <strong>Firebase Firestore</strong>
-</p>
+Built with **React + Vite**, **Node.js + Express**, and **Firebase Firestore**.
 
 ---
 
-# 📌 Overview
+## 📌 Project Overview
 
-AI Stock Advisor is designed as a practical stock recommendation engine for educational and analytical use.
+AI Stock Advisor combines real-time technical analysis with news sentiment to help investors make informed decisions. It uses a robust scoring engine (Base 50 + dynamic adjustments) to evaluate stocks based on:
 
-It combines:
-
-- live market prices  
-- technical indicator analysis  
-- news sentiment scoring  
-- user-specific risk adjustment  
-- portfolio tracking  
-
-The system computes a score-driven recommendation and generates a deterministic explanation without relying on external AI inference APIs.
+- **Technical Momentum**: RSI, MACD, and SMA50 trend analysis.
+- **Market Sentiment**: Real-time news analysis using sentiment-weighted scoring.
+- **Risk Profiling**: Personalized score adjustments based on user risk tolerance (Conservative, Moderate, Aggressive).
+- **Portfolio Intelligence**: Real-time P&L tracking and sector diversification analysis.
 
 ---
 
-# ✨ Core Features
+## ✨ Key Features
 
-## 📊 Live Stock Analysis
-
-- Real-time stock price retrieval  
-- Candle data processing  
-- Current price tracking  
-
-Using :contentReference[oaicite:0]{index=0}.
-
----
-
-## 🧠 Technical Scoring Engine
-
-Indicators currently included:
-
-- RSI  
-- SMA50  
-- MACD trend logic  
-
-Each indicator contributes to recommendation score.
+- **Google Authentication**: Secure Sign-In/Sign-Up integrated with Firebase.
+- **Smart Recommendations**: Deterministic, logic-driven explanations for every trade decision.
+- **Multi-Key Failover**: Advanced Twelve Data API management with automatic 3-key retry logic to bypass rate limits.
+- **Real-Time Portfolio**: Persistent Firestore-backed portfolio tracking with live market valuation.
+- **Dynamic Dashboard**: Interactive charts (Recharts), technical indicators, and real-time news panel.
+- **Premium UI**: Glassmorphism aesthetic, dark mode support, and smooth micro-animations.
 
 ---
 
-## 📰 News Sentiment Layer
+## 🛠️ Technology Stack
 
-Keyword-based sentiment classification using:
+- **Frontend**: React 19, Vite, Lucide React, Recharts, Tailwind CSS (optional-ready).
+- **Backend**: Node.js, Express, Axios.
+- **Database & Auth**: Firebase Firestore, Firebase Authentication (Google SSO).
+- **Market APIs**: Twelve Data (Technical Data), NewsAPI (Sentiment).
 
-:contentReference[oaicite:1]{index=1}
+---
 
-Positive keywords:
+## 🚀 Getting Started
 
-```text id="4gczt1"
-profit, growth, expansion, beat, upgrade
+### Prerequisites
+
+- Node.js (v18+)
+- Firebase Project
+- Twelve Data API Key(s)
+- NewsAPI Key
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Jigyasu-19/Stock-Advisor.git
+   cd Stock-Advisor
+   ```
+
+2. **Backend Setup**:
+   ```bash
+   cd server
+   npm install
+   cp .env.example .env
+   # Fill in your API keys in server/.env
+   ```
+
+3. **Frontend Setup**:
+   ```bash
+   # Back in root
+   npm install
+   cp .env.example .env
+   # Fill in your VITE_ prefixed keys in root .env
+   ```
+
+4. **Run Locally**:
+   ```bash
+   # Terminal 1 (Backend)
+   cd server
+   npm run dev
+
+   # Terminal 2 (Frontend)
+   # Back in root
+   npm run dev
+   ```
+
+---
+
+## 📦 Deployment
+
+### Backend (Render/Railway)
+- Root Directory: `server/`
+- Build Command: `npm install`
+- Start Command: `node app.js`
+
+### Frontend (Netlify/Vercel)
+- Build Command: `npm run build`
+- Output Directory: `dist/`
+- Environment Variables: Ensure `VITE_API_URL` points to your deployed backend URL.
+
+---
+
+## 📄 License
+This project is for educational use as part of the Term-3 EndTerm Project.
