@@ -4576,6 +4576,66 @@
       "confidence": 100,
       "reason": "Scheduled refresh. neutral sentiment, RSI 93.1.",
       "createdAt": "2026-04-20T17:09:05.209Z"
+    },
+    {
+      "_id": "90e28b71-09d6-4bd2-8ffb-9357a5e811d1",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.9.",
+      "createdAt": "2026-04-20T17:10:01.256Z"
+    },
+    {
+      "_id": "bf326bbd-879d-4d0e-9f06-3b8e6f26546d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 93.3.",
+      "createdAt": "2026-04-20T17:10:04.480Z"
+    },
+    {
+      "_id": "73a442ef-b8af-4a8a-9060-dc124b2c4db5",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.9.",
+      "createdAt": "2026-04-20T17:11:02.374Z"
+    },
+    {
+      "_id": "3e08bc1e-85ac-48a6-92f1-dbdb48ea7986",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 93.2.",
+      "createdAt": "2026-04-20T17:11:18.234Z"
+    },
+    {
+      "_id": "570d1886-888b-4c46-ba46-bf794b4acf2c",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T17:12:01.343Z"
+    },
+    {
+      "_id": "eed44b84-9bff-475e-bb32-79fd86a2eb46",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 93.1.",
+      "createdAt": "2026-04-20T17:12:04.894Z"
     }
   ],
   "portfolio": [
