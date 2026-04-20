@@ -53,17 +53,18 @@ const requestTimeSeries = async (params, key) => {
  * Every request strictly starts with Key 1 and progresses only on failure.
  */
 export const fetchStockData = async (symbol) => {
+  if (!keys || keys.length === 0) {
+    console.error('❌ Twelve Data API keys are missing in the environment configuration.');
+    throw new Error('Twelve Data API keys are not configured. Check your .env file.');
+  }
+
   const maxAttempts = keys.length;
   let currentKeyIndex = 0;
   let attempts = 0;
 
   while (attempts < maxAttempts) {
     const activeKey = keys[currentKeyIndex];
-    if (!activeKey) {
-      console.error('❌ No API keys available in the configuration.');
-      throw new Error('Twelve Data API keys are missing.');
-    }
-
+    
     try {
       attempts++;
       const data = await requestTimeSeries(
@@ -74,7 +75,6 @@ export const fetchStockData = async (symbol) => {
       // Twelve Data often returns 200 OK with an error payload for quota issues
       if (data.status === 'error') {
         const apiError = new Error(data.message || data.code || 'API Error');
-        // Attach data so isRateLimitError can inspect it
         apiError.response = { data }; 
         throw apiError;
       }
@@ -88,26 +88,22 @@ export const fetchStockData = async (symbol) => {
 
     } catch (error) {
       if (isRateLimitError(error)) {
-        // If we still have backup keys, switch and retry
         if (currentKeyIndex < keys.length - 1) {
           console.warn(`Key ${currentKeyIndex + 1} exhausted, switching to key ${currentKeyIndex + 2} for ${symbol}`);
-          
           currentKeyIndex++;
-          await delay(300); // 300ms delay between retries
-          continue; // Move to next iteration of the while loop with new key
+          await delay(300);
+          continue;
         } else {
-          // No more keys left
           console.error(`❌ fetchStockData(${symbol}): All ${keys.length} keys exhausted.`);
-          throw new Error('Twelve Data API quota exhausted across all available keys.');
+          throw new Error(`Twelve Data API quota exhausted across all ${keys.length} configured keys.`);
         }
       } else {
-        // For non-quota errors (invalid symbol, network down), throw immediately
         console.error(`❌ fetchStockData(${symbol}) failed:`, error.message);
         throw error;
       }
     }
   }
 
-  // Fallback (should be unreachable given the logic above)
-  throw new Error('Maximum retry logic exceeded');
+  // Final catch-all for unexpected loop exit
+  throw new Error('Maximum retry logic exceeded: No keys provided a successful response.');
 };
