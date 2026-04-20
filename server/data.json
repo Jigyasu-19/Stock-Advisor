@@ -1,0 +1,4649 @@
+{
+  "users": {
+    "user-asdfghj": {
+      "name": "asdfghj",
+      "age": 19,
+      "riskLevel": "moderate",
+      "investmentAmount": 1000,
+      "holdingPeriod": "short",
+      "sectors": [
+        "Technology",
+        "Utilities",
+        "Healthcare",
+        "Real Estate",
+        "Finance",
+        "Energy",
+        "Consumer",
+        "Industrials"
+      ],
+      "_id": "user-asdfghj",
+      "updatedAt": "2026-04-20T13:10:30.428Z",
+      "portfolio": [
+        "5cc955d2-eaae-4c39-9775-60004381cbe1"
+      ]
+    },
+    "user-jigyasu-jain": {
+      "name": "Jigyasu Jain",
+      "age": 19,
+      "riskLevel": "moderate",
+      "investmentAmount": 1000,
+      "holdingPeriod": "short",
+      "sectors": [
+        "Technology",
+        "Real Estate",
+        "Utilities",
+        "Healthcare",
+        "Finance",
+        "Energy",
+        "Consumer",
+        "Industrials"
+      ],
+      "_id": "user-jigyasu-jain",
+      "updatedAt": "2026-04-20T13:34:47.209Z",
+      "portfolio": [
+        "91f81b82-f09c-45a1-8178-23dc4350eddd"
+      ]
+    },
+    "MO2emtUhI1PifuW18OB21pbhMXK2": {
+      "_id": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "portfolio": [
+        "368b0b68-ce07-486b-a35e-7e1d07e54acf",
+        "575051ab-582a-4689-b2a3-98195c20c49f",
+        "9f9d3c08-8216-4789-8c9d-67fca9c9d882",
+        "7eba075f-8828-4049-9b79-5ed5d232aa25",
+        "4c1fa2ec-990f-4829-a9ff-dc756189e201",
+        "d5a812c7-adcd-40d9-aeda-af262021a326"
+      ]
+    }
+  },
+  "recommendations": [
+    {
+      "_id": "087f5bed-89a3-44b7-bb0c-8be9a8a17d67",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:35:15.022Z"
+    },
+    {
+      "_id": "609c387c-5d6b-4848-85c5-6a07a69358c3",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:35:15.259Z"
+    },
+    {
+      "_id": "8c290a26-842d-4c7b-a57c-55ad7c259302",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:35:15.697Z"
+    },
+    {
+      "_id": "554e9aef-6b59-4c3c-a2ac-d0100cd2f277",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:35:15.888Z"
+    },
+    {
+      "_id": "665e77fa-53db-4abb-af3e-925d9e3c1543",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:36:12.671Z"
+    },
+    {
+      "_id": "c82b3ada-f55b-4d6f-8e99-64de4b882581",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:36:12.843Z"
+    },
+    {
+      "_id": "bad68589-b1d0-4727-9a58-832559130586",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:36:13.309Z"
+    },
+    {
+      "_id": "bf984070-1f6e-4446-bed6-8f7106d93f86",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:36:13.511Z"
+    },
+    {
+      "_id": "2750ecc4-f38c-4681-b958-11a9afbe0668",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:36:18.308Z"
+    },
+    {
+      "_id": "e98340a0-0509-4717-b5bc-dc58c72ccbd9",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:36:18.376Z"
+    },
+    {
+      "_id": "30216839-977a-4dfe-8447-d08616c4b639",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:37:01.082Z"
+    },
+    {
+      "_id": "709677e5-8384-4ac8-be3e-8d12ad42796a",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:37:01.105Z"
+    },
+    {
+      "_id": "a081a707-b211-46d1-be93-fc44e97928ce",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:37:01.718Z"
+    },
+    {
+      "_id": "ebed0ffe-748b-47af-9d97-6a1ae9cdd6c8",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:37:01.744Z"
+    },
+    {
+      "_id": "05cfab1d-2024-4534-9bce-34c552749f17",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:39:36.991Z"
+    },
+    {
+      "_id": "06465782-499f-4c3f-bb95-a26954a5dc8a",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:39:37.015Z"
+    },
+    {
+      "_id": "5cdb0d4a-c2cf-4fc2-809f-3383ba9e3e7c",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:39:37.608Z"
+    },
+    {
+      "_id": "85d738f5-c6c3-4bc3-932e-a0da7e8e5df6",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:39:37.619Z"
+    },
+    {
+      "_id": "cf3c0bfa-85c7-42e0-99c2-c3b15cfdc847",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:39:39.453Z"
+    },
+    {
+      "_id": "85b73435-7601-4219-a55e-fc3fd089f2d9",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:39:39.463Z"
+    },
+    {
+      "_id": "037dd418-4f64-42fb-99b2-e9c1d0acd089",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:40:08.077Z"
+    },
+    {
+      "_id": "2c07fdf8-7e6d-4448-96c2-bcf602d6b9a0",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:40:08.089Z"
+    },
+    {
+      "_id": "a142edc3-45b3-4b34-97f7-4237ee1c5370",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:40:08.706Z"
+    },
+    {
+      "_id": "8f24ced0-6cf4-487f-ae60-53ae15c97e31",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:40:08.724Z"
+    },
+    {
+      "_id": "ae39039b-67e6-4260-975b-0b692bc91eb3",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:40:09.023Z"
+    },
+    {
+      "_id": "a7b7556a-127e-4204-8e46-e5f148ca08f0",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:40:09.035Z"
+    },
+    {
+      "_id": "b7e2e790-877b-4ef0-b153-00ff21d1469f",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:40:32.919Z"
+    },
+    {
+      "_id": "43b464a8-1a5d-4d38-8ad1-b9f9a017b616",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:40:32.929Z"
+    },
+    {
+      "_id": "13e7b0b7-95c0-4463-ad48-227dd2a22b72",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:41:13.152Z"
+    },
+    {
+      "_id": "da6cdc6a-440c-4ab7-b818-40bf3c3543bb",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:41:13.354Z"
+    },
+    {
+      "_id": "cd4772fa-ef24-4876-8a9f-7ea69f84b96b",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:41:21.427Z"
+    },
+    {
+      "_id": "3b4f5548-19c0-4315-8521-2c1dc5236946",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:41:21.447Z"
+    },
+    {
+      "_id": "fec75c1f-7650-47c4-8a60-5db6cac2cbe3",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:41:22.071Z"
+    },
+    {
+      "_id": "61a49667-8aae-4513-88cb-5e06704aabfb",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:41:22.341Z"
+    },
+    {
+      "_id": "30d15fe5-15fe-4e95-8be6-b94e6d8dd7c6",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:42:45.728Z"
+    },
+    {
+      "_id": "79f1f269-5351-4b30-854b-b6419c05522e",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:42:45.753Z"
+    },
+    {
+      "_id": "a1ab23bc-c0a3-4acb-9639-30d8fa77f899",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:42:46.351Z"
+    },
+    {
+      "_id": "9a1adfb1-0637-40f2-8be4-9c4ce7f4d13e",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum improving with acceptable trend strength. Risk-adjusted indicators suggest current positioning.",
+      "createdAt": "2026-04-20T12:42:46.389Z"
+    },
+    {
+      "_id": "154f77d4-8848-465f-b600-31f03bc59ec3",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T12:53:34.897Z"
+    },
+    {
+      "_id": "0472a029-a63e-4226-b5ef-e5b4de96dea4",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T12:53:34.910Z"
+    },
+    {
+      "_id": "12962979-8460-4fdb-bf7f-85af4fd47f25",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T12:53:35.474Z"
+    },
+    {
+      "_id": "200a2764-e575-4730-bc33-f65e5ac156e2",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T12:53:35.505Z"
+    },
+    {
+      "_id": "909e7398-a0ba-46d8-8cd5-b7e5bc2265b1",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T12:53:54.067Z"
+    },
+    {
+      "_id": "cc57c2ec-025b-4cf0-bf40-e653c5040a88",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T12:53:54.080Z"
+    },
+    {
+      "_id": "6ae78f3c-470c-4340-b41b-5ec14b604625",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T12:53:54.578Z"
+    },
+    {
+      "_id": "182a1058-cc1e-4e7e-9a1a-848a0934760c",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T12:53:54.598Z"
+    },
+    {
+      "_id": "6593b003-094e-4946-a108-142bbb72c159",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:00:00.869Z"
+    },
+    {
+      "_id": "5bc1b3ec-9a8d-44c5-b51c-4aeed0577d59",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:00:03.945Z"
+    },
+    {
+      "_id": "5195cec2-8078-473e-accc-4f35bf27551a",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:01:01.409Z"
+    },
+    {
+      "_id": "f4673ede-0088-4f05-81a1-12cd25e133f5",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:01:03.987Z"
+    },
+    {
+      "_id": "79ffd283-6558-48cc-9bb2-4310f20fcbe0",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:02:01.016Z"
+    },
+    {
+      "_id": "cdbca2a0-13a7-4ecf-9742-331adb7a92f1",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:02:03.650Z"
+    },
+    {
+      "_id": "7b7343bb-a5a2-46bc-b4af-d27a2527114b",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:03:01.684Z"
+    },
+    {
+      "_id": "72687e19-7aa4-43d0-bf73-5b6d336a1ca8",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:03:04.260Z"
+    },
+    {
+      "_id": "28c9d254-4ccc-4ee5-9333-cd270633c924",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:04:01.145Z"
+    },
+    {
+      "_id": "de738395-cf61-4cf8-834c-75137d8febf9",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:04:03.707Z"
+    },
+    {
+      "_id": "2bcdf28a-94f6-48cb-a363-3d988984282c",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:05:00.632Z"
+    },
+    {
+      "_id": "9864a49d-8e99-4d38-a333-c34f2923d627",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:05:03.217Z"
+    },
+    {
+      "_id": "502a3d9b-109a-4ef4-9d12-7f4cf71ecb4e",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:06:01.274Z"
+    },
+    {
+      "_id": "a7699e7b-5752-4bec-8e9e-f08cb3fae49a",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:06:03.854Z"
+    },
+    {
+      "_id": "fec0538d-0db2-42b5-99fc-d94f3cddb85d",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:07:01.048Z"
+    },
+    {
+      "_id": "389dd8a0-8a6c-4fe5-a91d-b8420af2c58e",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:07:03.602Z"
+    },
+    {
+      "_id": "a718a9f1-bebd-4532-909d-36e98e6551d0",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:08:01.720Z"
+    },
+    {
+      "_id": "37910fd6-644c-40ed-8699-39cca92f3f6c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:08:04.295Z"
+    },
+    {
+      "_id": "91afc526-366d-4abd-b62a-25a518192638",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:09:01.108Z"
+    },
+    {
+      "_id": "43c9b91f-45bd-4000-a908-5342c0a2e0af",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:09:03.705Z"
+    },
+    {
+      "_id": "d31d1d31-3582-4522-939a-53d68da8cd55",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:09:44.583Z"
+    },
+    {
+      "_id": "85dbb1d8-3944-4df3-a463-b775d6f903a7",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:09:45.026Z"
+    },
+    {
+      "_id": "b1d9cc7e-04a9-4712-bd85-1726df053c82",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:09:45.129Z"
+    },
+    {
+      "_id": "88aea424-4935-40bc-8b4e-2567888a53cb",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:09:45.569Z"
+    },
+    {
+      "_id": "aab9eb92-9842-4b62-b204-5f95924398eb",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:09:58.421Z"
+    },
+    {
+      "_id": "c98381c9-cdc1-4d8a-a9bf-f339392df637",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:10:03.007Z"
+    },
+    {
+      "_id": "65de0f61-9f3a-49b7-93d8-5bdd2b1dee6e",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:10:07.750Z"
+    },
+    {
+      "_id": "422aa779-2c63-446b-9914-9c0574ba41fd",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:10:08.089Z"
+    },
+    {
+      "_id": "a71cdc49-b272-4aff-880e-3e3a0a372ea0",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:10:14.671Z"
+    },
+    {
+      "_id": "dd427e06-4230-4500-a8e1-0f963757b710",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:10:15.127Z"
+    },
+    {
+      "_id": "f18bf1c1-454b-4e61-8b94-b34c6b3bea57",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:10:15.306Z"
+    },
+    {
+      "_id": "22ea178c-e253-4ca4-b2d6-6fa63a40e882",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:10:15.659Z"
+    },
+    {
+      "_id": "733fa02a-eddc-4a57-90b3-016379d47905",
+      "userId": "user-asdfghj",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:10:16.875Z"
+    },
+    {
+      "_id": "5d6773bf-1f38-4f08-ba55-dcde6acb83cf",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:11:01.357Z"
+    },
+    {
+      "_id": "64e9e93a-a179-4beb-86cb-2d67a4911189",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:11:03.932Z"
+    },
+    {
+      "_id": "6a5993d8-43be-4125-9fdf-434e0b26ecd9",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:12:00.855Z"
+    },
+    {
+      "_id": "4a3a84b0-94b7-4f5e-bb2c-140f2f5addf9",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:12:03.398Z"
+    },
+    {
+      "_id": "658179f6-06b6-4f5c-993f-34ef840d8fed",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:13:01.569Z"
+    },
+    {
+      "_id": "1a491ac0-5ffa-48c5-9f32-b30c7a375997",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:13:04.079Z"
+    },
+    {
+      "_id": "152f4d6f-0242-463b-bb78-e781aa1f8133",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:14:01.186Z"
+    },
+    {
+      "_id": "c4302b5c-8d80-40e1-9775-afb54b6a3d0a",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:14:03.734Z"
+    },
+    {
+      "_id": "6ea7b758-de74-4669-891a-dde0344497a5",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:14:23.598Z"
+    },
+    {
+      "_id": "454262fe-9e80-4408-941d-5c0b5f21125f",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:14:23.646Z"
+    },
+    {
+      "_id": "87d9a660-7bff-400d-a3ff-97cec1ca3bde",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:14:24.121Z"
+    },
+    {
+      "_id": "4775dbf5-bcd0-4a91-8c8a-8971e375016c",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:14:24.174Z"
+    },
+    {
+      "_id": "0909805e-9652-49cb-afe9-4e67f8ff45cf",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:15:00.778Z"
+    },
+    {
+      "_id": "f0b43a44-1fda-47be-937c-8a829be70aa2",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:15:04.028Z"
+    },
+    {
+      "_id": "35c14447-288b-4966-9474-ad421c8a924a",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:16:01.412Z"
+    },
+    {
+      "_id": "d79163ea-f8bf-4458-a4bd-277c0c0eab04",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:16:04.112Z"
+    },
+    {
+      "_id": "eb8450ab-6591-40d0-ae88-fa0e481f5dab",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:16:21.355Z"
+    },
+    {
+      "_id": "16911cc5-877a-4831-a78e-5cb94dd6e6d9",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:16:21.370Z"
+    },
+    {
+      "_id": "d3fce253-aaf7-412c-983b-5f541a9162a2",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:16:21.876Z"
+    },
+    {
+      "_id": "ef8a728f-c8ac-4571-8f35-d7ceab114be2",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:16:21.913Z"
+    },
+    {
+      "_id": "89496aed-a112-4875-baa1-5c227b0d7bee",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:16:28.440Z"
+    },
+    {
+      "_id": "f237e00f-7934-46af-9980-f2b86aaf258b",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:16:28.453Z"
+    },
+    {
+      "_id": "6272b24b-62a4-47f2-8e73-ab6dfbc587d7",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:17:00.981Z"
+    },
+    {
+      "_id": "6939e36e-b9ac-47cd-b9b8-020007702528",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:17:03.535Z"
+    },
+    {
+      "_id": "d5dea591-e229-4799-ab20-848063fad65d",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:17:03.941Z"
+    },
+    {
+      "_id": "1e35b962-d4fa-4755-83c2-c4abf2f789b6",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:17:03.972Z"
+    },
+    {
+      "_id": "1fe44f13-907d-42fa-858d-619873392f60",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:17:04.486Z"
+    },
+    {
+      "_id": "9dbdf9a3-98b9-4352-b51f-303918316ee9",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:17:04.499Z"
+    },
+    {
+      "_id": "3a0e622f-56b7-4bba-b63c-8a8474845249",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:18:00.637Z"
+    },
+    {
+      "_id": "23ad2fe3-ac51-45b6-9e3d-11226f3fb17b",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:18:03.179Z"
+    },
+    {
+      "_id": "25d1b782-7499-440d-a27c-39bad052c5ab",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:19:01.313Z"
+    },
+    {
+      "_id": "e52cd125-7e8e-41c4-b5f5-3272848d633a",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:19:03.839Z"
+    },
+    {
+      "_id": "dd440534-1201-4afd-a828-2bca1add9535",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:19:49.893Z"
+    },
+    {
+      "_id": "5eae7fcf-05bc-4df0-a2b6-042596f78873",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:19:49.909Z"
+    },
+    {
+      "_id": "232bafde-e31a-4dd0-a186-85d28bfa24f8",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:19:50.488Z"
+    },
+    {
+      "_id": "28bc8d26-9da0-44e5-95aa-c2fd8d273718",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:19:50.503Z"
+    },
+    {
+      "_id": "e62627d6-5c89-425b-aafa-3f2f76adc9ac",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:20:00.936Z"
+    },
+    {
+      "_id": "0136faa8-e04c-44ad-8708-21449138dce8",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:20:04.769Z"
+    },
+    {
+      "_id": "c4f74d5c-825d-4e7f-8823-ddc21d0b8178",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:21:01.541Z"
+    },
+    {
+      "_id": "18096608-fe9a-4c1e-917e-643466cd22a2",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:21:04.102Z"
+    },
+    {
+      "_id": "b12f726e-bf5e-4d20-9e29-b86cf06db876",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:22:01.154Z"
+    },
+    {
+      "_id": "99af59eb-b4f8-468e-b56e-da76c607933f",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:22:03.747Z"
+    },
+    {
+      "_id": "f69f561c-9040-497e-9772-4cca867832c4",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:23:00.781Z"
+    },
+    {
+      "_id": "a9694080-d4ee-4d8f-a2bb-0dd2d2ed0a7f",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:23:03.323Z"
+    },
+    {
+      "_id": "64e827f2-99ea-49d6-8a49-b285887dd1ab",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:23:59.071Z"
+    },
+    {
+      "_id": "e137d40e-f7e2-46de-8249-f98dcef626b5",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:23:59.085Z"
+    },
+    {
+      "_id": "5ada4074-1e95-4f0d-9f78-4a975cf5f598",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:23:59.624Z"
+    },
+    {
+      "_id": "25bf7a0d-ba63-4ce5-9420-4f2234ac5192",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:23:59.642Z"
+    },
+    {
+      "_id": "dd366db6-d496-46df-8517-92ea43770869",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:24:01.306Z"
+    },
+    {
+      "_id": "5362d123-4f9c-48e0-ba94-97445fa78286",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:24:03.838Z"
+    },
+    {
+      "_id": "5b652adb-4eb6-4da2-a682-d8056cabb09d",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:25:00.993Z"
+    },
+    {
+      "_id": "be8a21fd-509d-4e97-8991-0aa8eab60d6c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:25:03.609Z"
+    },
+    {
+      "_id": "bf91b8cf-8fc7-4dc7-8c14-08a44fde021c",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:26:00.705Z"
+    },
+    {
+      "_id": "c41d9347-4995-4805-9d27-8b689f9d7f89",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:26:03.332Z"
+    },
+    {
+      "_id": "b5cb807f-26f0-46a8-9bff-de1eaeea42c6",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:27:01.389Z"
+    },
+    {
+      "_id": "98d69084-e8c9-43af-abbd-3eb65a4a6484",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:27:03.943Z"
+    },
+    {
+      "_id": "61e9cbe3-1087-4201-8b81-cdf517dae31e",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:27:32.415Z"
+    },
+    {
+      "_id": "c5754490-9293-4c86-9a58-f36f3d68ad1c",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:27:32.433Z"
+    },
+    {
+      "_id": "cdcb4e5b-5cb4-4804-95da-55bd55193e13",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:27:32.939Z"
+    },
+    {
+      "_id": "767b20ad-ffdb-4147-a82e-18de401f214a",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:27:32.950Z"
+    },
+    {
+      "_id": "70af782f-9add-4744-8829-4e25cc59f542",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:28:00.824Z"
+    },
+    {
+      "_id": "402c149f-9009-4e2c-93ce-6e18ac497836",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:28:03.390Z"
+    },
+    {
+      "_id": "af239be3-9c5e-4c19-b53f-e9ef7d2cbf3b",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:28:15.372Z"
+    },
+    {
+      "_id": "15832559-c4c8-4aa1-bcb2-065ad228d077",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:28:15.385Z"
+    },
+    {
+      "_id": "bde88869-39dc-419a-9625-8cbad4a52398",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:28:15.919Z"
+    },
+    {
+      "_id": "91fccd8c-f69e-44d9-8819-90a42c90a6a3",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:28:15.928Z"
+    },
+    {
+      "_id": "71af42f5-6908-4c13-918c-56e86412e603",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:29:01.473Z"
+    },
+    {
+      "_id": "5e7884f7-b4a8-4bbd-b29e-2b6a90bd15b1",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:29:04.028Z"
+    },
+    {
+      "_id": "088b5d57-7000-4502-87bf-ca05644d59e2",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:29:23.639Z"
+    },
+    {
+      "_id": "1759103f-4d94-45ae-8154-4ac9a8b1212c",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:29:23.874Z"
+    },
+    {
+      "_id": "ec416a3c-1579-4eb3-af47-befe4932c4c0",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:29:24.225Z"
+    },
+    {
+      "_id": "adbb6047-d82e-4956-8d5d-b00957384729",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:29:24.567Z"
+    },
+    {
+      "_id": "216022d3-1825-4090-9326-46bb00dd5203",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:30:01.154Z"
+    },
+    {
+      "_id": "f14a86cd-9ba2-42c3-ab23-e40a50339c40",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:30:04.765Z"
+    },
+    {
+      "_id": "e6699e28-5b5f-4763-8da4-5f6e9447b8a4",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:31:00.805Z"
+    },
+    {
+      "_id": "7bd0b675-0726-4c2f-b6a9-c6b87eb0733c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T13:31:03.486Z"
+    },
+    {
+      "_id": "e3c53468-0402-49d9-ac3a-cb59a6d2d92c",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 73.4.",
+      "createdAt": "2026-04-20T13:32:01.444Z"
+    },
+    {
+      "_id": "0fbae0fe-dced-471c-a2ba-7b257b26931f",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.5.",
+      "createdAt": "2026-04-20T13:32:04.074Z"
+    },
+    {
+      "_id": "5671322b-9a25-4c51-9f0a-a55e1a8c52f6",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:32:26.705Z"
+    },
+    {
+      "_id": "d3a52a2e-933c-4a58-8668-62da4c7af411",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:32:26.718Z"
+    },
+    {
+      "_id": "6b3495da-d477-4760-ac69-3727f9dc8cfc",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:32:27.258Z"
+    },
+    {
+      "_id": "fc777b2e-7b77-4070-8c96-63f3f91b0685",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:32:27.269Z"
+    },
+    {
+      "_id": "f814c519-337a-43c0-be49-3412026161b7",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.4.",
+      "createdAt": "2026-04-20T13:33:01.061Z"
+    },
+    {
+      "_id": "32aa2f21-0195-410e-b96f-375e7d52a376",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.4.",
+      "createdAt": "2026-04-20T13:33:03.602Z"
+    },
+    {
+      "_id": "e7f2ba7d-29f2-4b64-8696-cd934c29659b",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:33:56.473Z"
+    },
+    {
+      "_id": "dc1f4894-81b4-499f-8cd2-b7db593507de",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:33:56.492Z"
+    },
+    {
+      "_id": "1575d57a-71aa-44f4-ad26-36775d65b27f",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:33:56.984Z"
+    },
+    {
+      "_id": "45831522-6a2e-4671-a70b-8c91387d788c",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:33:57.022Z"
+    },
+    {
+      "_id": "66a4ea7a-09ef-4452-81ff-45fbb02d68cf",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.4.",
+      "createdAt": "2026-04-20T13:34:00.688Z"
+    },
+    {
+      "_id": "1458065c-3592-4025-81bd-c51a7fbd3dd7",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.0.",
+      "createdAt": "2026-04-20T13:34:03.290Z"
+    },
+    {
+      "_id": "633a47db-492d-4593-a524-09ab2a05dbc2",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:34:53.082Z"
+    },
+    {
+      "_id": "075321f2-86a8-4fb7-b555-33747822af6d",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:34:53.209Z"
+    },
+    {
+      "_id": "79fc6c82-b9b2-4f76-9ed2-cc78da368f23",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:34:53.710Z"
+    },
+    {
+      "_id": "a91739d2-0356-4f96-9bd7-68836c98a1c9",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:34:53.720Z"
+    },
+    {
+      "_id": "2e9f5f7c-7b57-4d99-ac3b-0771548a4a9a",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.6.",
+      "createdAt": "2026-04-20T13:35:01.377Z"
+    },
+    {
+      "_id": "ab26c2a6-d991-425a-bff2-b24fb625a783",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.7.",
+      "createdAt": "2026-04-20T13:35:03.982Z"
+    },
+    {
+      "_id": "40fcb96f-420d-4507-b88f-b78cdf85a4e2",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T13:36:00.959Z"
+    },
+    {
+      "_id": "3f4d1d2c-290f-4698-8a0a-efc64b53c609",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 95.2.",
+      "createdAt": "2026-04-20T13:36:03.534Z"
+    },
+    {
+      "_id": "41e2230f-8024-44ca-b2bc-431654a3ad46",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T13:37:00.559Z"
+    },
+    {
+      "_id": "fb53112b-d1a3-44ad-a74e-6c581041b22d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 94.5.",
+      "createdAt": "2026-04-20T13:37:03.124Z"
+    },
+    {
+      "_id": "56b0e673-ca70-47f7-a5be-a02375f1a502",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T13:38:01.357Z"
+    },
+    {
+      "_id": "d4f13e05-fa69-426b-98de-ff4eb3817d4d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 94.3.",
+      "createdAt": "2026-04-20T13:38:04.018Z"
+    },
+    {
+      "_id": "8c057bdb-872f-4baa-90ce-7cd823a8830b",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T13:39:00.845Z"
+    },
+    {
+      "_id": "30f2ba53-0087-445f-bd36-5d0cbd4a98dc",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 94.5.",
+      "createdAt": "2026-04-20T13:39:03.415Z"
+    },
+    {
+      "_id": "a0bb2478-d608-4b54-8018-668f56313d4e",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T13:40:01.554Z"
+    },
+    {
+      "_id": "addbbe20-23f7-4d16-b24e-c010e90d1478",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.4.",
+      "createdAt": "2026-04-20T13:40:04.235Z"
+    },
+    {
+      "_id": "a378970c-c0e2-40f2-bc49-a98a6ed07696",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:40:47.739Z"
+    },
+    {
+      "_id": "d7b34592-b59f-4890-8150-29db53117175",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:40:47.784Z"
+    },
+    {
+      "_id": "4a1c67ae-698d-46e1-86f7-153d2971e330",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:40:48.278Z"
+    },
+    {
+      "_id": "67d21f85-ef5e-4ace-a6db-b4ec1be23aed",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:40:48.326Z"
+    },
+    {
+      "_id": "78f63bfa-595f-4fe3-9832-1267e7451c9e",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:40:53.157Z"
+    },
+    {
+      "_id": "69e7e26e-e865-4bfb-a6d2-1894eb6579c5",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:40:53.178Z"
+    },
+    {
+      "_id": "0fc08102-702d-47cb-a9db-2e688af1b963",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T13:41:01.101Z"
+    },
+    {
+      "_id": "298ecaa9-d60f-45c0-980a-319ae9b03c05",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.4.",
+      "createdAt": "2026-04-20T13:41:03.637Z"
+    },
+    {
+      "_id": "0584a363-bc48-42f4-90cf-369bbefbb726",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T13:42:00.756Z"
+    },
+    {
+      "_id": "6822c54f-b8da-43c4-b46b-7bbaf3845185",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.6.",
+      "createdAt": "2026-04-20T13:42:03.365Z"
+    },
+    {
+      "_id": "497a3516-2d08-4708-9e87-9cb580357d05",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T13:43:01.451Z"
+    },
+    {
+      "_id": "0656dd87-d3bc-456a-be2c-4ff29aaf0204",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 94.0.",
+      "createdAt": "2026-04-20T13:43:03.988Z"
+    },
+    {
+      "_id": "c944fabc-d687-4e42-bb06-03c1be59d0a9",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T13:44:01.067Z"
+    },
+    {
+      "_id": "be49f2cd-18c9-406c-ace2-e822f6c1d3d2",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.8.",
+      "createdAt": "2026-04-20T13:44:03.883Z"
+    },
+    {
+      "_id": "6caa041a-6547-48a9-ae31-897fa429be5d",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:44:44.845Z"
+    },
+    {
+      "_id": "1cf2c38a-3c08-49c2-9c09-f972c60a14c9",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:44:44.873Z"
+    },
+    {
+      "_id": "364901dc-4326-40cd-b0b7-6a9d8afba794",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:44:45.356Z"
+    },
+    {
+      "_id": "5121b3a4-bdf1-49bf-ae1e-4f6188482e36",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:44:45.400Z"
+    },
+    {
+      "_id": "e94cf013-8e15-4873-ac97-2738472468b9",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T13:45:01.652Z"
+    },
+    {
+      "_id": "c77d3020-c665-484e-abbf-21a67e96b906",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.9.",
+      "createdAt": "2026-04-20T13:45:04.238Z"
+    },
+    {
+      "_id": "1a07d946-e075-46cd-b801-9de609cd5d15",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:45:14.244Z"
+    },
+    {
+      "_id": "1ea290a9-7895-4608-b71f-b559c686ccb0",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T13:45:14.257Z"
+    },
+    {
+      "_id": "471f059c-36d5-4eb4-9886-efaffa3eb103",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:45:14.764Z"
+    },
+    {
+      "_id": "add5a3d4-bb2e-4494-b6a3-b9e1b1ad960e",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T13:45:14.779Z"
+    },
+    {
+      "_id": "7efd00cf-5a57-48a6-9ab7-f744187fc8d7",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T13:46:01.143Z"
+    },
+    {
+      "_id": "39f0ac3b-dd17-45ba-8b47-648ce5fa3148",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 94.1.",
+      "createdAt": "2026-04-20T13:46:03.711Z"
+    },
+    {
+      "_id": "5cfe4651-117e-4ab9-bd0c-629199697176",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T13:47:00.816Z"
+    },
+    {
+      "_id": "54f2aa9b-7207-4f28-8cd3-858f2920e0de",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.9.",
+      "createdAt": "2026-04-20T13:47:03.999Z"
+    },
+    {
+      "_id": "c9edf5fc-0a3f-474b-9496-00f89a710264",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T13:48:01.497Z"
+    },
+    {
+      "_id": "61dd63b2-a2b8-45f7-8d19-525554b642dd",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 94.1.",
+      "createdAt": "2026-04-20T13:48:04.078Z"
+    },
+    {
+      "_id": "894ea78a-b395-485b-9d1a-a5067d88e631",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T15:21:54.165Z"
+    },
+    {
+      "_id": "e330f4ee-4fdd-46a3-b7d3-0384620ceb08",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T15:21:54.176Z"
+    },
+    {
+      "_id": "3b8648b2-f80e-4f49-a386-2340b5b716ac",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T15:21:55.223Z"
+    },
+    {
+      "_id": "46057b7f-329d-4598-9cae-e8a5009f5344",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T15:21:55.234Z"
+    },
+    {
+      "_id": "35af0ab9-75c3-468d-9d8f-7a2707415a4c",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.8.",
+      "createdAt": "2026-04-20T15:22:01.814Z"
+    },
+    {
+      "_id": "3f94bf88-f866-4597-b947-e8ac37dbc12e",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.2.",
+      "createdAt": "2026-04-20T15:22:05.449Z"
+    },
+    {
+      "_id": "e94025c6-ec05-448e-aa63-d83bf3ef6934",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.9.",
+      "createdAt": "2026-04-20T15:23:02.095Z"
+    },
+    {
+      "_id": "af55da79-d4d3-49e0-8163-78a854385e64",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.5.",
+      "createdAt": "2026-04-20T15:23:04.993Z"
+    },
+    {
+      "_id": "e781cb9f-4fd8-4be0-b842-345585ae895f",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T15:24:01.116Z"
+    },
+    {
+      "_id": "17e1991f-ee9b-44ea-bf77-53303ca69ad4",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.8.",
+      "createdAt": "2026-04-20T15:24:05.640Z"
+    },
+    {
+      "_id": "96c18e76-0bcc-4b44-8a93-a3c52335bb39",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:25:01.814Z"
+    },
+    {
+      "_id": "df333d86-9baf-4244-8062-75af1c1fdf94",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.7.",
+      "createdAt": "2026-04-20T15:25:04.859Z"
+    },
+    {
+      "_id": "62b454d1-af00-474c-acf2-4565a2a5dfa3",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:26:01.784Z"
+    },
+    {
+      "_id": "c79bda38-4989-485a-bcfb-61645bf4f099",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.1.",
+      "createdAt": "2026-04-20T15:26:04.718Z"
+    },
+    {
+      "_id": "0d1d48ed-c700-48b9-ad17-aacceb8ee08d",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:27:01.838Z"
+    },
+    {
+      "_id": "b4238125-1941-45df-96e6-6757f5da25af",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.0.",
+      "createdAt": "2026-04-20T15:27:05.093Z"
+    },
+    {
+      "_id": "ff5a0dbb-8050-443c-af79-27b7f049da18",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T15:28:00.875Z"
+    },
+    {
+      "_id": "baaf566b-d78f-4359-a702-d99ff47139e5",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.3.",
+      "createdAt": "2026-04-20T15:28:03.732Z"
+    },
+    {
+      "_id": "d40a46f1-3c90-4ac8-8bdd-8fea9611a28c",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T15:28:05.237Z"
+    },
+    {
+      "_id": "2174dcbf-ed38-4201-ac4b-393f2b1cabe5",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T15:28:05.252Z"
+    },
+    {
+      "_id": "5054902b-b484-4cc8-85ec-87535bc8f6f0",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T15:28:06.258Z"
+    },
+    {
+      "_id": "492986c3-8d1a-45f0-a353-ba8617eb4806",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T15:28:06.944Z"
+    },
+    {
+      "_id": "46695c4b-a83c-4709-ab19-507e5d4b2c99",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T15:29:01.440Z"
+    },
+    {
+      "_id": "02bdb4c7-b11e-4aba-bc5c-e60bfdd05454",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.4.",
+      "createdAt": "2026-04-20T15:29:03.989Z"
+    },
+    {
+      "_id": "68d9f0b1-b15e-4fa7-9e77-f56f9fd6c21b",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:30:00.844Z"
+    },
+    {
+      "_id": "2d980a73-8f3a-418b-8492-84c767c3cf5c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.4.",
+      "createdAt": "2026-04-20T15:30:03.682Z"
+    },
+    {
+      "_id": "db850b13-8d24-4ee9-aca9-eae1b66dfe89",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:31:01.472Z"
+    },
+    {
+      "_id": "24c95354-b726-418b-ba92-72fdd1ed92ae",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.6.",
+      "createdAt": "2026-04-20T15:31:04.005Z"
+    },
+    {
+      "_id": "b0faa14d-a5d1-4059-8305-c5b16d5612ef",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T15:32:01.219Z"
+    },
+    {
+      "_id": "8a69bb56-3b05-4ad6-9388-8a1fedc110e4",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.2.",
+      "createdAt": "2026-04-20T15:32:03.805Z"
+    },
+    {
+      "_id": "0c17c805-9f4c-4264-9c39-664d7283c907",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T15:33:00.711Z"
+    },
+    {
+      "_id": "d262c02f-bb4b-4bd9-b40f-1632c70da8c0",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.9.",
+      "createdAt": "2026-04-20T15:33:03.336Z"
+    },
+    {
+      "_id": "40531392-823c-46d5-9c92-5b83a9766d25",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:34:01.330Z"
+    },
+    {
+      "_id": "7b632d2f-15d9-4c0f-9861-258116b986cf",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.8.",
+      "createdAt": "2026-04-20T15:34:03.967Z"
+    },
+    {
+      "_id": "37855b1e-1197-4f23-afd9-ea9ead0824a4",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:35:01.059Z"
+    },
+    {
+      "_id": "00314e65-cbb6-4df6-8131-dc4ca6d741fc",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.0.",
+      "createdAt": "2026-04-20T15:35:03.737Z"
+    },
+    {
+      "_id": "867ef422-58aa-42c1-af09-d1b242dba593",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T15:36:00.824Z"
+    },
+    {
+      "_id": "670de307-fe28-47c9-88b3-77cbc01dc6d4",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.8.",
+      "createdAt": "2026-04-20T15:36:03.382Z"
+    },
+    {
+      "_id": "b176e71e-2284-4b17-aafd-faad9d4f3381",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:37:01.382Z"
+    },
+    {
+      "_id": "2f1c8e59-7cbd-40dd-9d60-8a9335c41da4",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.3.",
+      "createdAt": "2026-04-20T15:37:03.916Z"
+    },
+    {
+      "_id": "9c040774-e73c-41b1-9a45-080838fcfeb6",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T15:38:00.983Z"
+    },
+    {
+      "_id": "40c46773-4991-4099-befa-0084292b9ef3",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.9.",
+      "createdAt": "2026-04-20T15:38:03.552Z"
+    },
+    {
+      "_id": "a5d962a5-cd05-4f1b-995d-fd535303ed81",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:39:01.573Z"
+    },
+    {
+      "_id": "2930fa66-56fb-413d-ad75-ccf2e7b6a44c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.0.",
+      "createdAt": "2026-04-20T15:39:04.150Z"
+    },
+    {
+      "_id": "d7805fd2-b904-4aa4-8604-a178a197746c",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:40:01.200Z"
+    },
+    {
+      "_id": "34ce72d9-90e2-4e8f-add8-abd295b6a788",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.0.",
+      "createdAt": "2026-04-20T15:40:03.724Z"
+    },
+    {
+      "_id": "0e0bc332-f7bc-4e3e-ba1a-989c942af794",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:41:00.866Z"
+    },
+    {
+      "_id": "f1000a32-19dc-4abb-b97c-8030b325a395",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.3.",
+      "createdAt": "2026-04-20T15:41:03.379Z"
+    },
+    {
+      "_id": "74cc22f5-443e-42db-8abb-cdce1b3b6111",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:42:01.825Z"
+    },
+    {
+      "_id": "83634ef9-5e2b-41a1-a498-24c9b06ce7c7",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.6.",
+      "createdAt": "2026-04-20T15:42:04.444Z"
+    },
+    {
+      "_id": "21bfa331-343e-4526-b378-bf8337ebced3",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:43:01.074Z"
+    },
+    {
+      "_id": "eaf25c66-6788-491a-8428-af00596eb7b8",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.4.",
+      "createdAt": "2026-04-20T15:43:03.741Z"
+    },
+    {
+      "_id": "7dbb33a5-f441-46e9-9d34-1b078d663a20",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:44:00.671Z"
+    },
+    {
+      "_id": "90e1f148-9d34-4c72-b11b-cbc762190014",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.1.",
+      "createdAt": "2026-04-20T15:44:03.205Z"
+    },
+    {
+      "_id": "0d124fed-7027-442f-9ba7-024c6d5a316c",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:45:01.366Z"
+    },
+    {
+      "_id": "67c32899-bdca-4580-8ab5-0ad8ce2cd09d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.9.",
+      "createdAt": "2026-04-20T15:45:03.965Z"
+    },
+    {
+      "_id": "6afd02d9-6cbd-436e-8706-e810754fb4c8",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:46:01.015Z"
+    },
+    {
+      "_id": "625e66be-3090-4896-9848-c3a3fb3fbaa4",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.5.",
+      "createdAt": "2026-04-20T15:46:03.616Z"
+    },
+    {
+      "_id": "58a8d51a-d8be-4b74-a067-a0aca015e73e",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T15:48:01.232Z"
+    },
+    {
+      "_id": "b6991830-7519-4f85-8be2-2a7d268c5bf8",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.7.",
+      "createdAt": "2026-04-20T15:48:04.112Z"
+    },
+    {
+      "_id": "d2e84bc6-87c5-471e-8246-ae10f892635d",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:49:01.021Z"
+    },
+    {
+      "_id": "6e461fc2-2129-4626-bf04-12aade52fdea",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.7.",
+      "createdAt": "2026-04-20T15:49:04.096Z"
+    },
+    {
+      "_id": "69be1983-7389-4371-9d67-d1ea7360107d",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:50:01.441Z"
+    },
+    {
+      "_id": "f9b40c50-f810-45ca-9561-99f1941de814",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.6.",
+      "createdAt": "2026-04-20T15:50:04.068Z"
+    },
+    {
+      "_id": "f2ff71de-43ef-4058-9567-12af89f885da",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:51:01.324Z"
+    },
+    {
+      "_id": "25ea6ed6-19ec-47de-8a2f-f2c8367f2247",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.0.",
+      "createdAt": "2026-04-20T15:51:03.896Z"
+    },
+    {
+      "_id": "8ff0ce78-409c-40b3-8416-54772c035384",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:52:00.654Z"
+    },
+    {
+      "_id": "50d6614b-14cc-42be-bbf9-68f1d25781dc",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 90.9.",
+      "createdAt": "2026-04-20T15:52:03.199Z"
+    },
+    {
+      "_id": "ff275553-53b2-4903-ba89-2646c6528072",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:53:02.102Z"
+    },
+    {
+      "_id": "8dcf02b5-f9a4-44bb-93e3-db679b10763c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 90.8.",
+      "createdAt": "2026-04-20T15:53:04.741Z"
+    },
+    {
+      "_id": "f29c7623-8e35-4680-a3b2-bd273f0d2767",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:54:01.428Z"
+    },
+    {
+      "_id": "bfd31ded-d8ab-4aab-b7a1-318cc2e2f64d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.0.",
+      "createdAt": "2026-04-20T15:54:04.203Z"
+    },
+    {
+      "_id": "1d00bee0-96dc-49c3-bdd4-278e63a44e46",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:55:01.631Z"
+    },
+    {
+      "_id": "8de663a9-7549-46cc-862c-cb5732f40461",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.2.",
+      "createdAt": "2026-04-20T15:55:04.509Z"
+    },
+    {
+      "_id": "c416f823-cb98-48ba-8506-788ef7a77e5b",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T15:56:01.600Z"
+    },
+    {
+      "_id": "39d3296c-19fd-457f-b0fe-e92e765fb5d5",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.2.",
+      "createdAt": "2026-04-20T15:56:04.612Z"
+    },
+    {
+      "_id": "bcb93477-1fa3-4bd7-b3e2-f0804fc5957b",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T15:57:00.751Z"
+    },
+    {
+      "_id": "190394ff-ae84-4117-960e-299cebfc5fb2",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.3.",
+      "createdAt": "2026-04-20T15:57:03.308Z"
+    },
+    {
+      "_id": "62ff0e2e-6e47-468a-bc5e-efc80acefde5",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T15:57:57.067Z"
+    },
+    {
+      "_id": "b4c684e9-237a-43dc-aefb-378f06706aec",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T15:57:57.078Z"
+    },
+    {
+      "_id": "254d2972-3d82-4d0e-89d4-2b683ab161aa",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T15:57:57.588Z"
+    },
+    {
+      "_id": "86103570-c07e-4e1e-887c-22f970ad8701",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T15:57:57.840Z"
+    },
+    {
+      "_id": "b1d61b51-c777-4136-a139-91c4443faeaf",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T15:58:01.363Z"
+    },
+    {
+      "_id": "93612dd1-dd4f-47d2-85ff-1ebde1a8e0ee",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.3.",
+      "createdAt": "2026-04-20T15:58:03.906Z"
+    },
+    {
+      "_id": "74855ce5-345d-4463-b834-adf68ba6c967",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T15:59:01.624Z"
+    },
+    {
+      "_id": "f2d900be-02aa-45a3-9c60-2ca54ccc0823",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.3.",
+      "createdAt": "2026-04-20T15:59:04.271Z"
+    },
+    {
+      "_id": "d23b3104-be0c-4dbf-9408-06de608225f1",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:00:00.725Z"
+    },
+    {
+      "_id": "c11955e3-8888-4e8b-a415-0c3fb7f5d2a7",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.2.",
+      "createdAt": "2026-04-20T16:00:03.775Z"
+    },
+    {
+      "_id": "7f0cf7a5-d333-4320-8641-0057e415743c",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:01:02.013Z"
+    },
+    {
+      "_id": "4c32ab0e-1c5d-4d42-b7fc-d0a0137a4dcb",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.3.",
+      "createdAt": "2026-04-20T16:01:05.321Z"
+    },
+    {
+      "_id": "04cfc1f1-dfc6-4205-bc4b-61661262fd55",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:02:01.066Z"
+    },
+    {
+      "_id": "d7f9ffda-67f7-43a4-afd1-60100b547c27",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.3.",
+      "createdAt": "2026-04-20T16:02:03.633Z"
+    },
+    {
+      "_id": "fb3af6cf-de4b-4838-891c-5c71cb91c200",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:03:00.972Z"
+    },
+    {
+      "_id": "3f622e3e-7440-41be-92b2-c44d0b854f02",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.6.",
+      "createdAt": "2026-04-20T16:03:03.548Z"
+    },
+    {
+      "_id": "77660c2d-439c-49b8-a154-cc46b8c7c81d",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:04:06.365Z"
+    },
+    {
+      "_id": "f353fc5f-cf07-4527-bbf5-6d4da896d6b4",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.4.",
+      "createdAt": "2026-04-20T16:04:10.884Z"
+    },
+    {
+      "_id": "7e412105-309c-4849-a544-04d925227abd",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:05:01.005Z"
+    },
+    {
+      "_id": "55a835cc-4e74-42b7-8ad2-19accd6cc615",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.2.",
+      "createdAt": "2026-04-20T16:05:03.834Z"
+    },
+    {
+      "_id": "2eb5c75e-1a44-4f43-a8cb-c6e0ed59ea9e",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:06:01.102Z"
+    },
+    {
+      "_id": "aa639b8c-c89a-455a-94cf-31942aa78242",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.4.",
+      "createdAt": "2026-04-20T16:06:03.976Z"
+    },
+    {
+      "_id": "51f2ef15-4cbe-4da5-a5dd-f22f90813d0f",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:07:01.462Z"
+    },
+    {
+      "_id": "86075a33-96f9-44e2-bb57-4fb6f4c8f96d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.8.",
+      "createdAt": "2026-04-20T16:07:03.993Z"
+    },
+    {
+      "_id": "75b65676-c726-4442-bde2-5d08ef0d0c97",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:08:02.860Z"
+    },
+    {
+      "_id": "6abdecc9-ebc7-4eb7-a388-553108d3c68a",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.0.",
+      "createdAt": "2026-04-20T16:08:07.349Z"
+    },
+    {
+      "_id": "b5abd726-f0f1-4c86-8bde-5809ade0aada",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:09:01.170Z"
+    },
+    {
+      "_id": "449ba5f6-02d2-48a0-bc76-ac0c8f07c5de",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.0.",
+      "createdAt": "2026-04-20T16:09:03.838Z"
+    },
+    {
+      "_id": "3e774ca7-da1f-47d8-8c02-49848c34c5bf",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:10:01.487Z"
+    },
+    {
+      "_id": "eb1e7801-5c5f-4525-8551-54a10461af77",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.3.",
+      "createdAt": "2026-04-20T16:10:04.118Z"
+    },
+    {
+      "_id": "a3cce952-a3da-496e-9927-7efc3d1bdb5f",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:11:01.010Z"
+    },
+    {
+      "_id": "1591db5e-624f-475e-a528-1f5cf04c990a",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.1.",
+      "createdAt": "2026-04-20T16:11:03.540Z"
+    },
+    {
+      "_id": "7da1ef07-deff-45f1-a095-e9dfe0ed5537",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T16:12:00.969Z"
+    },
+    {
+      "_id": "9c8bd3fb-9467-412a-bde5-9a3e69901d8a",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.3.",
+      "createdAt": "2026-04-20T16:12:04.515Z"
+    },
+    {
+      "_id": "32f331f2-51b7-4bbb-9dc6-6f47b0969763",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T16:13:01.284Z"
+    },
+    {
+      "_id": "38afde76-098b-46ee-a7fe-b5b8a49aa921",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.4.",
+      "createdAt": "2026-04-20T16:13:04.235Z"
+    },
+    {
+      "_id": "f1d6569d-cc05-4bd4-8fd2-0ac21467c656",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:14:01.232Z"
+    },
+    {
+      "_id": "cef0bb4f-7c7c-40e2-83d6-4ba0f2f3b3e3",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.5.",
+      "createdAt": "2026-04-20T16:14:04.909Z"
+    },
+    {
+      "_id": "e7757fbe-771f-48bb-bacf-56c06d40fee2",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:15:01.680Z"
+    },
+    {
+      "_id": "bbc53ddc-6774-4834-90cd-538ac0db70a5",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.4.",
+      "createdAt": "2026-04-20T16:15:04.916Z"
+    },
+    {
+      "_id": "d437932b-73e0-463a-86d1-ba342d9cd70d",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T16:16:01.672Z"
+    },
+    {
+      "_id": "4930eda7-c4fc-4c97-a45f-5f7ec93befa4",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.3.",
+      "createdAt": "2026-04-20T16:16:04.728Z"
+    },
+    {
+      "_id": "1e1178a1-a941-4a7f-9a39-29c3304f6a49",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T16:17:01.293Z"
+    },
+    {
+      "_id": "a4ef8c35-5256-4666-b858-72b9d723b966",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.1.",
+      "createdAt": "2026-04-20T16:17:04.298Z"
+    },
+    {
+      "_id": "014ddbe4-c094-4133-a2d3-51f89119e507",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T16:18:01.527Z"
+    },
+    {
+      "_id": "0f2a0d7d-5044-469d-a08e-68f1626233d9",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 91.8.",
+      "createdAt": "2026-04-20T16:18:05.295Z"
+    },
+    {
+      "_id": "525aca26-4101-457a-9c39-3ec37128a618",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:19:01.470Z"
+    },
+    {
+      "_id": "b9b184f1-cd29-4c19-a8d2-e726e09019e5",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.1.",
+      "createdAt": "2026-04-20T16:19:04.522Z"
+    },
+    {
+      "_id": "5ebe164e-2735-4d62-87c5-1785031f7fd4",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:20:01.254Z"
+    },
+    {
+      "_id": "a468a3d3-26c1-4570-8785-9f2514062d1d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.2.",
+      "createdAt": "2026-04-20T16:20:04.190Z"
+    },
+    {
+      "_id": "8588b212-9eb8-4a28-8739-13bb2e756571",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:21:01.412Z"
+    },
+    {
+      "_id": "5c2667a0-d2e5-4806-9aa7-672951940639",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.5.",
+      "createdAt": "2026-04-20T16:21:04.533Z"
+    },
+    {
+      "_id": "2542bd8a-acf5-459f-a7f8-0e27c13b0460",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:22:01.306Z"
+    },
+    {
+      "_id": "5ddc7e8b-7c3d-46d2-b45e-02db2274200b",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:22:05.389Z"
+    },
+    {
+      "_id": "e2927e59-0b86-4976-b37b-1b65905defd5",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:23:01.498Z"
+    },
+    {
+      "_id": "dc3b776a-0996-4f84-ad8b-7d69ad67c804",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:23:04.141Z"
+    },
+    {
+      "_id": "3f61725b-89b7-43ba-8320-b94dae52835b",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:24:01.439Z"
+    },
+    {
+      "_id": "8e184f61-d3fb-4bb4-8668-701cb08566a7",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.5.",
+      "createdAt": "2026-04-20T16:24:04.438Z"
+    },
+    {
+      "_id": "91a0cc2d-7f19-4e37-ae24-a64da9ee87f4",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:25:00.820Z"
+    },
+    {
+      "_id": "f685a6bc-c2a4-4763-87a5-274d1605f705",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.0.",
+      "createdAt": "2026-04-20T16:25:03.410Z"
+    },
+    {
+      "_id": "b4aa0459-b356-40df-a217-fbff0ebc65f6",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:26:02.014Z"
+    },
+    {
+      "_id": "a6a39564-f4b1-4fc2-b182-963bc4755f27",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.9.",
+      "createdAt": "2026-04-20T16:26:04.594Z"
+    },
+    {
+      "_id": "733aaa13-7c7e-45d8-b1e6-b928e1f3c6bd",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:27:00.863Z"
+    },
+    {
+      "_id": "b98f70b2-7363-4024-9ca1-0a513938c6ea",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:27:03.420Z"
+    },
+    {
+      "_id": "f4151877-53b5-4afe-bce9-6290fb0329c6",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:28:01.454Z"
+    },
+    {
+      "_id": "8896abb8-2ab7-4c81-ba29-b9d92afdd4e7",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:28:04.515Z"
+    },
+    {
+      "_id": "cf51a4b7-c867-4310-88b9-68293a1b0c91",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:29:00.955Z"
+    },
+    {
+      "_id": "ee27a651-0dbc-4955-becd-5f2ffb2cc5b8",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:29:03.684Z"
+    },
+    {
+      "_id": "7ac5015b-f3dd-4b3d-8b0d-bf5b601ab0fb",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:30:00.623Z"
+    },
+    {
+      "_id": "63c0e855-7315-4611-90e6-0591b9d2896f",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:30:03.260Z"
+    },
+    {
+      "_id": "4579589b-ad4b-4c9f-bc41-9e8b5a440fba",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:31:01.435Z"
+    },
+    {
+      "_id": "19893b0b-b182-464e-a11a-28b8f82140cd",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.5.",
+      "createdAt": "2026-04-20T16:31:05.835Z"
+    },
+    {
+      "_id": "9f8567af-eb52-4bb8-a6c7-10ae6dc9cffa",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:32:04.650Z"
+    },
+    {
+      "_id": "5e1fd8d4-1ee1-464d-aa30-e91dfddef929",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.5.",
+      "createdAt": "2026-04-20T16:32:07.197Z"
+    },
+    {
+      "_id": "27f19a5f-705c-4adf-85e2-04ac62db29f4",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:33:01.618Z"
+    },
+    {
+      "_id": "4c3aa646-7432-4158-ae8f-dc048db33503",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.5.",
+      "createdAt": "2026-04-20T16:33:04.406Z"
+    },
+    {
+      "_id": "8245af31-4ae0-4f03-82fc-b9c7f9984c26",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:34:01.250Z"
+    },
+    {
+      "_id": "efd8d604-3e57-4832-8ea3-1cf0cab9d30c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:34:03.840Z"
+    },
+    {
+      "_id": "edc2e6ff-f3a8-4db1-af0c-7d93504f00c0",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.4.",
+      "createdAt": "2026-04-20T16:37:01.564Z"
+    },
+    {
+      "_id": "75c7e5c5-e3bd-4293-b781-5df86766317c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.0.",
+      "createdAt": "2026-04-20T16:37:08.132Z"
+    },
+    {
+      "_id": "fad7a854-fe7d-41c6-8de0-3567d7ec6d3a",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:38:01.044Z"
+    },
+    {
+      "_id": "51596725-76ee-45f4-85c0-70c12840cc8a",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.1.",
+      "createdAt": "2026-04-20T16:38:03.579Z"
+    },
+    {
+      "_id": "12b6d8bc-6f3f-4226-b405-eafdfe5b37ac",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:39:00.905Z"
+    },
+    {
+      "_id": "584309c0-b113-44e1-999d-efd115bc5ee5",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:39:03.433Z"
+    },
+    {
+      "_id": "51ea6d11-7cd4-4813-9e86-815ffcdf1d65",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:40:00.533Z"
+    },
+    {
+      "_id": "a7a81ede-7b67-4485-b2ae-2ddb9c32e117",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:40:00.769Z"
+    },
+    {
+      "_id": "3612ed70-f3d5-4443-85fd-3c23daa24ceb",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T16:40:01.058Z"
+    },
+    {
+      "_id": "bc14521d-f51c-4ef5-ac5c-17c140a1a74e",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:40:01.247Z"
+    },
+    {
+      "_id": "29ab2a02-a14a-4d1d-8e14-c9290346741d",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T16:40:01.328Z"
+    },
+    {
+      "_id": "3415c710-f721-4d41-8cc1-d20000ac1cc0",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:41:01.364Z"
+    },
+    {
+      "_id": "9c864c73-9406-438e-97d0-1abea605d0d8",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:41:05.343Z"
+    },
+    {
+      "_id": "2bd46a4c-f2f4-430a-9c8d-f69d0a160286",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:42:01.627Z"
+    },
+    {
+      "_id": "aa052e8b-ad49-4195-9475-c80a366e81e1",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.9.",
+      "createdAt": "2026-04-20T16:42:04.631Z"
+    },
+    {
+      "_id": "9b9d9ed2-24ba-4cec-b942-3ab3e5fdf12f",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:43:01.203Z"
+    },
+    {
+      "_id": "9e09816b-bf95-45e6-a1e0-6fb11d1458b8",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.4.",
+      "createdAt": "2026-04-20T16:43:05.313Z"
+    },
+    {
+      "_id": "66e9e6b8-908d-493b-832e-7fef2f83d5fb",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:44:01.709Z"
+    },
+    {
+      "_id": "20974c00-40ca-417b-b73d-a956495dcf1d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.2.",
+      "createdAt": "2026-04-20T16:44:04.488Z"
+    },
+    {
+      "_id": "1efdfd7d-7ed7-4cb0-a591-33c6bc01c2e9",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:46:01.059Z"
+    },
+    {
+      "_id": "8196af5a-05a6-45f0-b9fa-476ae0d137d1",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.0.",
+      "createdAt": "2026-04-20T16:46:03.664Z"
+    },
+    {
+      "_id": "8fb5f595-2db3-403b-bcea-a5fe65595ca0",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.3.",
+      "createdAt": "2026-04-20T16:48:01.297Z"
+    },
+    {
+      "_id": "006e3f5e-13d6-4bf4-bd52-6f8b15cfe712",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.1.",
+      "createdAt": "2026-04-20T16:48:03.862Z"
+    },
+    {
+      "_id": "b266357f-b7cc-43e1-96bd-f71433b35ab6",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:49:00.853Z"
+    },
+    {
+      "_id": "03812dd2-e129-4f72-98f2-509e19a7573d",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.1.",
+      "createdAt": "2026-04-20T16:49:03.458Z"
+    },
+    {
+      "_id": "b38b02d6-2f7f-4512-904d-8376bffd1bff",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:50:02.034Z"
+    },
+    {
+      "_id": "0fc90fc5-b4f2-4e7d-9de2-bdbcd5b92cbb",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.0.",
+      "createdAt": "2026-04-20T16:50:05.062Z"
+    },
+    {
+      "_id": "3e0d61b0-7175-44d6-9eae-3e6e481d18f2",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:51:01.146Z"
+    },
+    {
+      "_id": "9a313d07-5569-4942-ad37-8fe829ac6d3d",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:51:03.636Z"
+    },
+    {
+      "_id": "e182d9ea-226c-44ae-b449-f87d972d1a31",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 93.0.",
+      "createdAt": "2026-04-20T16:51:03.748Z"
+    },
+    {
+      "_id": "26e82667-0943-471c-a4bb-1768c9f57d97",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:51:03.854Z"
+    },
+    {
+      "_id": "101b2bba-f999-4ad4-892f-f50c43d3d8b5",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T16:51:04.381Z"
+    },
+    {
+      "_id": "16eb82eb-5538-4f06-8737-09cebe0e594b",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-20T16:51:04.418Z"
+    },
+    {
+      "_id": "297462d8-885d-4f5f-9668-11e73f793ef7",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:51:23.138Z"
+    },
+    {
+      "_id": "a181063c-47a3-4901-80c1-db54aae4cf07",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:51:23.434Z"
+    },
+    {
+      "_id": "747fc432-6a6d-4f6f-838f-22a3e58811a6",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:52:00.971Z"
+    },
+    {
+      "_id": "21dd8c1e-da36-4fe0-931f-255eb488a0b1",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. positive sentiment, RSI 92.6.",
+      "createdAt": "2026-04-20T16:52:03.494Z"
+    },
+    {
+      "_id": "22d4e40f-ed9e-495a-b6e9-7ba5aed2b175",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:53:02.450Z"
+    },
+    {
+      "_id": "f443fae3-a59d-465e-9ef2-7d63dc8f7b58",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T16:53:06.798Z"
+    },
+    {
+      "_id": "58d9eea2-fc91-4aec-b552-4b7fb1602854",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:54:01.873Z"
+    },
+    {
+      "_id": "e6427e10-0f07-4517-b8b2-7c1c7b2af03f",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 93.0.",
+      "createdAt": "2026-04-20T16:54:04.778Z"
+    },
+    {
+      "_id": "8b05df8a-e191-459a-b367-e91609f7eb2a",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:56:02.317Z"
+    },
+    {
+      "_id": "75dfb6bc-f3e7-490e-88b6-edf7d9e7764f",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 93.0.",
+      "createdAt": "2026-04-20T16:56:07.756Z"
+    },
+    {
+      "_id": "ebcbc9c9-9c7f-4a69-bc95-a2827cacfff1",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:56:29.359Z"
+    },
+    {
+      "_id": "7285bce5-7af9-4678-9ac1-eb05d0b4ae80",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:56:29.970Z"
+    },
+    {
+      "_id": "0bf13e7b-7cd6-42ec-afe0-2f96515054a1",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:56:31.265Z"
+    },
+    {
+      "_id": "b9f63b33-2234-4e76-bc7e-85edaa4235bf",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:56:31.302Z"
+    },
+    {
+      "_id": "2d97d3fd-7b60-4e05-82c9-57125d22ea6f",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:57:01.759Z"
+    },
+    {
+      "_id": "ce57a36c-11e3-4cdc-9014-5eebc938210c",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.6.",
+      "createdAt": "2026-04-20T16:57:04.901Z"
+    },
+    {
+      "_id": "d1bf58d2-3170-415a-b9cf-c7d294f28273",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.2.",
+      "createdAt": "2026-04-20T16:58:02.430Z"
+    },
+    {
+      "_id": "44548135-fae7-4355-b461-8b393885c767",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.7.",
+      "createdAt": "2026-04-20T16:58:05.568Z"
+    },
+    {
+      "_id": "b2d339b8-6da5-4e2e-ab4d-3c95dc895235",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T16:59:01.671Z"
+    },
+    {
+      "_id": "0c2f76a4-27cf-4356-934c-1154e5960c59",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.7.",
+      "createdAt": "2026-04-20T16:59:04.835Z"
+    },
+    {
+      "_id": "495fbd57-95db-4b1a-a8e4-7826854f3cb5",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:04.869Z"
+    },
+    {
+      "_id": "9e2ad0da-9490-4ce3-9bab-7fa7122d394a",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:04.881Z"
+    },
+    {
+      "_id": "190964bd-c09a-4483-8e4a-dfb2d5efa699",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:06.036Z"
+    },
+    {
+      "_id": "76c12e5e-20ad-466c-9e99-172fd8b62643",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:06.246Z"
+    },
+    {
+      "_id": "917e4ef2-7872-423a-9757-aadd07c7e62e",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:20.360Z"
+    },
+    {
+      "_id": "287dd19a-5712-4b74-bc14-da89875ceb3f",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:20.590Z"
+    },
+    {
+      "_id": "3e7e7750-fb9b-4f5a-ba0a-6169cdc6a564",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:22.494Z"
+    },
+    {
+      "_id": "1b440644-3368-425c-9438-96cda4735de2",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:22.608Z"
+    },
+    {
+      "_id": "e3b2f9cf-4a02-429c-b576-0b388e68a689",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:49.402Z"
+    },
+    {
+      "_id": "8bbb88e8-cd3e-4fd6-b09a-5b613f4aa1b9",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-20T16:59:50.827Z"
+    },
+    {
+      "_id": "715bd495-8c72-4b20-b96c-b28ce32103a6",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T17:01:01.792Z"
+    },
+    {
+      "_id": "6a7ce982-cb63-4189-92a1-8838a90b9310",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.7.",
+      "createdAt": "2026-04-20T17:01:05.095Z"
+    },
+    {
+      "_id": "17c00e27-7aa8-4729-88f6-783f97f3718e",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.1.",
+      "createdAt": "2026-04-20T17:02:01.656Z"
+    },
+    {
+      "_id": "48406b6d-07a6-44c4-8e1d-6cca7a39f649",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T17:02:04.844Z"
+    },
+    {
+      "_id": "8b9144fa-2c0b-4402-a028-aae35b9480f6",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.9.",
+      "createdAt": "2026-04-20T17:03:02.108Z"
+    },
+    {
+      "_id": "f35f0d3a-e87f-499c-ae2c-4e1fada18822",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T17:03:05.706Z"
+    },
+    {
+      "_id": "0b08994e-9666-436b-bee8-61ddc1d60000",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 78.0.",
+      "createdAt": "2026-04-20T17:04:01.955Z"
+    },
+    {
+      "_id": "9a1f589a-296f-4b25-80a3-2961d8bc93e5",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.7.",
+      "createdAt": "2026-04-20T17:04:05.176Z"
+    },
+    {
+      "_id": "628da164-550b-4ca1-b479-17de0ac9daff",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.8.",
+      "createdAt": "2026-04-20T17:05:01.195Z"
+    },
+    {
+      "_id": "b0c086a2-c556-4cfd-94cd-b9de8de9821a",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 93.0.",
+      "createdAt": "2026-04-20T17:05:04.860Z"
+    },
+    {
+      "_id": "3ac9b5f5-0566-42ba-b39f-47fec4f308c4",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.8.",
+      "createdAt": "2026-04-20T17:06:01.882Z"
+    },
+    {
+      "_id": "47139eb1-c9bd-40be-b2e5-67038d7f73f7",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.9.",
+      "createdAt": "2026-04-20T17:06:05.220Z"
+    },
+    {
+      "_id": "b0993053-620b-47f1-be2d-f53d0faf332f",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.9.",
+      "createdAt": "2026-04-20T17:07:01.698Z"
+    },
+    {
+      "_id": "a582fdc1-e45c-4f4d-be91-2ba333cd48db",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 92.8.",
+      "createdAt": "2026-04-20T17:07:05.493Z"
+    },
+    {
+      "_id": "0794109c-9cf6-4162-a3e2-d5af45437a1d",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.9.",
+      "createdAt": "2026-04-20T17:08:02.112Z"
+    },
+    {
+      "_id": "cc129748-b803-43a0-8026-cacbb88b8141",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 93.1.",
+      "createdAt": "2026-04-20T17:08:05.703Z"
+    },
+    {
+      "_id": "30e6e7e6-8e1f-461c-8465-e3023b4f9d18",
+      "userId": "scheduler",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 77.9.",
+      "createdAt": "2026-04-20T17:09:01.647Z"
+    },
+    {
+      "_id": "c994a904-2f2e-46f7-b0ca-218327d06da8",
+      "userId": "scheduler",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Scheduled refresh. neutral sentiment, RSI 93.1.",
+      "createdAt": "2026-04-20T17:09:05.209Z"
+    }
+  ],
+  "portfolio": [
+    {
+      "_id": "5cc955d2-eaae-4c39-9775-60004381cbe1",
+      "userId": "user-asdfghj",
+      "stockSymbol": "AAPL",
+      "quantity": 5,
+      "buyPrice": 200,
+      "createdAt": "2026-04-20T12:36:06.322Z"
+    },
+    {
+      "_id": "91f81b82-f09c-45a1-8178-23dc4350eddd",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "quantity": 1,
+      "buyPrice": 200,
+      "createdAt": "2026-04-20T13:35:06.961Z",
+      "updatedAt": "2026-04-20T13:35:21.968Z"
+    },
+    {
+      "_id": "368b0b68-ce07-486b-a35e-7e1d07e54acf",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "quantity": 5,
+      "buyPrice": 200,
+      "createdAt": "2026-04-20T13:44:53.429Z",
+      "updatedAt": "2026-04-20T13:45:05.297Z"
+    },
+    {
+      "_id": "575051ab-582a-4689-b2a3-98195c20c49f",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "quantity": 3,
+      "buyPrice": 300,
+      "createdAt": "2026-04-20T13:45:26.057Z"
+    },
+    {
+      "_id": "9f9d3c08-8216-4789-8c9d-67fca9c9d882",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "HDFC",
+      "quantity": 2,
+      "buyPrice": 100,
+      "createdAt": "2026-04-20T13:47:23.869Z"
+    },
+    {
+      "_id": "7eba075f-8828-4049-9b79-5ed5d232aa25",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "HDFCBANK",
+      "quantity": 3,
+      "buyPrice": 100,
+      "createdAt": "2026-04-20T13:48:11.146Z"
+    },
+    {
+      "_id": "4c1fa2ec-990f-4829-a9ff-dc756189e201",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "MSFT",
+      "quantity": 3,
+      "buyPrice": 800,
+      "createdAt": "2026-04-20T15:23:58.273Z"
+    },
+    {
+      "_id": "d5a812c7-adcd-40d9-aeda-af262021a326",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AMZN",
+      "quantity": 2,
+      "buyPrice": 250,
+      "createdAt": "2026-04-20T15:26:22.105Z"
+    }
+  ]
+}
