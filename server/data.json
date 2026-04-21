@@ -25,9 +25,9 @@
     "user-jigyasu-jain": {
       "name": "Jigyasu Jain",
       "age": 19,
-      "riskLevel": "moderate",
+      "riskLevel": "aggressive",
       "investmentAmount": 1000,
-      "holdingPeriod": "short",
+      "holdingPeriod": "long",
       "sectors": [
         "Technology",
         "Real Estate",
@@ -39,7 +39,7 @@
         "Industrials"
       ],
       "_id": "user-jigyasu-jain",
-      "updatedAt": "2026-04-20T13:34:47.209Z",
+      "updatedAt": "2026-04-21T10:53:30.800Z",
       "portfolio": [
         "91f81b82-f09c-45a1-8178-23dc4350eddd"
       ]
@@ -5616,6 +5616,436 @@
       "confidence": 100,
       "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
       "createdAt": "2026-04-21T09:59:23.811Z"
+    },
+    {
+      "_id": "c3c7f1f6-1b9e-4d06-8f09-df45083d4d70",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:26:15.277Z"
+    },
+    {
+      "_id": "88dfedaf-200c-4a60-a96e-4fdf68780130",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:26:15.856Z"
+    },
+    {
+      "_id": "76dd1374-728d-419a-bec1-ba619d2dc749",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:26:30.822Z"
+    },
+    {
+      "_id": "57281a27-510b-4b53-aba3-8e724d494ea6",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:26:31.362Z"
+    },
+    {
+      "_id": "f6d89c05-0ee2-48ba-8530-9357cd97ab72",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:26:33.411Z"
+    },
+    {
+      "_id": "af18fccd-12af-4cec-9f13-83a47f6ded2c",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:26:33.926Z"
+    },
+    {
+      "_id": "45a822d0-d965-4ee0-b3b8-dafcc2fd53a4",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:30:56.101Z"
+    },
+    {
+      "_id": "4b750cb5-6b92-43b5-aec4-bbeab27584b3",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:30:56.645Z"
+    },
+    {
+      "_id": "93f8dce3-a15b-4797-a598-c0095ed18755",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:31:28.863Z"
+    },
+    {
+      "_id": "afaf753a-3750-413d-bce1-cde053aad07c",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:31:31.586Z"
+    },
+    {
+      "_id": "dfca5580-7e10-4659-bb69-5e196892b200",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:31:41.267Z"
+    },
+    {
+      "_id": "1ab5d05a-ad0b-424a-a368-3b6ef8ccb02a",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:31:42.622Z"
+    },
+    {
+      "_id": "06cd50a6-564d-4d55-b27b-20105127e17b",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:34:25.350Z"
+    },
+    {
+      "_id": "36adbbbb-f698-47e0-a614-ccf5e1abab3a",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:34:26.346Z"
+    },
+    {
+      "_id": "e877edc9-9e85-45f9-a9bb-e733cfcc12f4",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:35:10.159Z"
+    },
+    {
+      "_id": "52b86534-478c-4306-8068-b9c8eda6072e",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:35:10.685Z"
+    },
+    {
+      "_id": "71604949-4ee6-4d5e-a9bc-70119b0a578a",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:36:44.497Z"
+    },
+    {
+      "_id": "08888b33-ab05-4466-96c9-1b5a4a0a5d7e",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:36:45.053Z"
+    },
+    {
+      "_id": "769debe8-d13d-411a-8bee-e29106dff578",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:39:03.775Z"
+    },
+    {
+      "_id": "983a40c8-4b93-4713-98fa-a368538bad8d",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:39:04.320Z"
+    },
+    {
+      "_id": "ab9074d9-d219-4aa8-8c76-58a917e04328",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:39:56.421Z"
+    },
+    {
+      "_id": "f32ef212-6c0f-4c98-b85b-4a6d09c780d6",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:39:56.960Z"
+    },
+    {
+      "_id": "881b4819-91cc-495b-8909-7c4ea3275ce1",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:41:21.473Z"
+    },
+    {
+      "_id": "90a9c256-39a0-43b3-b5f5-49391a7003bc",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:41:22.017Z"
+    },
+    {
+      "_id": "bef15e69-9a41-462f-be28-0809da430364",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:41:23.999Z"
+    },
+    {
+      "_id": "85808ec2-fdce-447c-8b82-40550848e6cd",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:41:24.539Z"
+    },
+    {
+      "_id": "6b6199ec-e38e-4dbd-8c21-372345dd4202",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:41:41.892Z"
+    },
+    {
+      "_id": "d0610862-6619-4ed0-98cc-2bc298869b80",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:41:42.398Z"
+    },
+    {
+      "_id": "54da15b7-bca1-45a5-b1b9-7edb29843011",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:43:55.241Z"
+    },
+    {
+      "_id": "390c15fa-9c46-485f-bce9-cceca3ce31ea",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:43:55.805Z"
+    },
+    {
+      "_id": "ee740729-c6cb-4ff5-be4a-adadc22ab16a",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:51:43.507Z"
+    },
+    {
+      "_id": "1609d2aa-2a35-4761-b8ea-59b816c171e8",
+      "userId": "MO2emtUhI1PifuW18OB21pbhMXK2",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:52:00.202Z"
+    },
+    {
+      "_id": "54b28d70-e399-4e45-b6a6-18abb3290b1d",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:52:37.846Z"
+    },
+    {
+      "_id": "91c332df-6304-4271-ab5b-e4488d0c23cc",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:52:38.464Z"
+    },
+    {
+      "_id": "bbac9e2a-2932-4022-bfb4-ed8f79f29ea7",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:52:39.331Z"
+    },
+    {
+      "_id": "d97f97cd-7ac8-4181-bc37-351718dcb28a",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Risk profile reduces attractiveness for this position.",
+      "createdAt": "2026-04-21T10:53:12.956Z"
+    },
+    {
+      "_id": "e2d619a9-0c9e-4fd3-a1d2-077f11ef5178",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive. Risk profile reduces attractiveness for this position.",
+      "createdAt": "2026-04-21T10:53:13.490Z"
+    },
+    {
+      "_id": "6261d951-bd01-4bad-b3a8-aff9f8fa8af7",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "score": 95,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Risk profile reduces attractiveness for this position.",
+      "createdAt": "2026-04-21T10:53:14.537Z"
+    },
+    {
+      "_id": "1be525c6-721d-4c31-bcb6-11e75f0fd0da",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:53:32.951Z"
+    },
+    {
+      "_id": "f989b607-723a-4aaa-9820-250b907d765c",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T10:53:33.461Z"
+    },
+    {
+      "_id": "6eae6eda-b1d0-421d-afb2-9906c993e945",
+      "userId": "user-jigyasu-jain",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T10:53:33.880Z"
+    },
+    {
+      "_id": "9bf84d6e-7316-467f-8e14-7ecda5af65fb",
+      "userId": "guest",
+      "stockSymbol": "AAPL",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry.",
+      "createdAt": "2026-04-21T11:04:37.861Z"
+    },
+    {
+      "_id": "1c43f324-ff5e-4154-a0b1-269407ebc584",
+      "userId": "guest",
+      "stockSymbol": "NVDA",
+      "score": 100,
+      "decision": "Strong Buy",
+      "confidence": 100,
+      "reason": "Momentum is strong with supportive technical indicators. Current market conditions favour entry. Recent news flow remains supportive.",
+      "createdAt": "2026-04-21T11:04:38.416Z"
     }
   ],
   "portfolio": [
